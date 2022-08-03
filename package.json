@@ -22,7 +22,7 @@
       "web": "https://github.com/megawac"
     }
   ],
-  "name": "ramda",
+  "name": "@pnpm/ramda",
   "description": "A practical functional library for JavaScript programmers.",
   "keywords": [
     "ramda",
@@ -38,7 +38,7 @@
     "fantasy-land"
   ],
   "sideEffects": false,
-  "version": "0.28.0",
+  "version": "0.28.1",
   "homepage": "https://ramdajs.com/",
   "license": "MIT",
   "repository": {
